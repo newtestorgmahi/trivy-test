@@ -41,6 +41,7 @@
     {
       "type": "Microsoft.Storage/storageAccounts",
       "name": "bucket2",
+      "test": "test",
       "location": "[parameters('location')]",
       "apiVersion": "2018-07-01",
       "sku": {
